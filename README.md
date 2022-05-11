@@ -5,7 +5,7 @@ Hello, I will be helping you survive in the world of software engineering/develo
 
 Your first computer science class should be **CPSC 1050** at Langara I believe. It will teach you the hierarchy of how a computer functions.  
 
-<img src="https://github.com/Dreamz2/Training-C/blob/Changes/images/computerthing.jpeg" width="500">
+<img src="https://github.com/Dreamz2/Training-C/blob/main/images/computerthing.jpeg" width="500">
 
 This picture is similar to what you will learn in class. My class my rules I am skipping it because it is boring asf. We will just be focusing on the **Application** layer. The Application layer is right after the operating system, so it is programs like league of legends, Valorant, and others. But we will be coding it not playing it.  
 
