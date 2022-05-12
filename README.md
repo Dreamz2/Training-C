@@ -1,11 +1,11 @@
 # Welcome
-Hello, I will be helping you survive in the world of software engineering/development. This repository was meant for all of us to work together. Other than that, I have changed it so this repository will teach you from knowing nothing to creating your first Application/Project for people to use.   
+Hello, I will be helping you survive in the world of software engineering/development. This repository was meant for all of us to work together. Other than that, I have changed it so this repository will teach you from knowing nothing to creating your first Application/Project for people to use. There is going to be a lot you will need to know. So, get ready. 
 
 ## To Begin  
 
 Your first computer science class should be **CPSC 1050** at Langara I believe. It will teach you the hierarchy of how a computer functions.  
 
-<img src="https://github.com/Dreamz2/Training-C/blob/main/images/computerthing.jpeg" width="500">
+<img src="https://github.com/Dreamz2/Training-C/blob/main/images/computerthing.jpeg" width="500"> 
 
 This picture is similar to what you will learn in class. My class my rules I am skipping it because it is boring asf. We will just be focusing on the **Application** layer. The Application layer is right after the operating system, so it is programs like league of legends, Valorant, and others. But we will be coding it not playing it.  
 
@@ -29,9 +29,11 @@ Let me know if you are confused about anything or need help!!
 
 There are 3 main fields people go into after a degree in computer science. Front-end Developers, Back-end Developers, and Software Developers. There are others like mobile development and game development, but they do not pay as much and require more work. You do not need to know what they are right now, just know they exist, and you will have to pick a field and you can change later if you want. All 3 of these fields use different coding languages just know that.   
 
-Another thing you will need to know is something called **Syntax**. The syntax is how the computer interprets what you wrote in code into something the computer can understand. It is basically grammar for computers. You will need to know the syntax of any language you want to learn.  
+Another thing you will need to know is something called **Syntax**. Every language has a different syntax associated with it. The syntax is how you write your code so your compiler can convert it to machine code then your computer can convert it to byte code. You do not need to know how it converts it into Machine code or Byte code just know it does. You will need to know the syntax of any coding language you want to learn.  
 
-> Was supposed to be an example here, but none of them made sense  
+> If you are confused, just think about it as someone talking to another person.  
+
+> Person 1 thinks of something they want to say to Person 2. Person 1 then says those things in his head to Person 2. After, Person 2 thinks of what Person 1 said and then comes up with a response to Person 1. Person 2 then says their response to Person 1. Then it repeats. 
 
 Lastly, you will be using something called **Method** or**Functions** a lot. They do the exact same thing and are useful. The only difference is how they are written in every language.  
 
@@ -49,7 +51,7 @@ Public static void nameOfMethod(parameters) {Your code}
 
 def nameOfFunction(parameters):  
 
-	Your code  
+Your code  
 
 ```  
 
@@ -76,5 +78,7 @@ You do not need to know what each one does right now, but just remember that Met
 There are many more things I could teach you. But I think you should learn a language first. 
 
 That was a lot hope you enjoyed it, but now at the top of the page where the Folders are. You will be going into Getting Started or by clicking this [link](https://github.com/Dreamz2/Training-C/tree/main/Getting%20Started) which will bring you there. Once entered read the following README.md there.  
+
+Let me know if you need help with anything!! 
 
 Good Luck!! 
